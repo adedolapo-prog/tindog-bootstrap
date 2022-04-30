@@ -123,12 +123,22 @@ icon:hover {
   padding: 5% 2%;
 }
 
+.pricing-button:hover {
+  background-color: #fff;
+  color: black;
+}
+
 #cta {
   background-color: #ff4c68;
 }
 
 #cta h3{
   font-size: 3.5rem;
+}
+
+.apple-button:hover {
+  background-color: #ff4c68;
+  border: 1px solid white;
 }
 
 #footer {
